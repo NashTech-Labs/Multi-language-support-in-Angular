@@ -1,0 +1,15 @@
+.header{
+    background-color: #8080ff;
+    height: 80px;
+    padding: 10px 25px;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: white;
+}

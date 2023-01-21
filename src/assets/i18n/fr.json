@@ -1,0 +1,11 @@
+{
+    "dashboard": {
+        "welcome": "Bienvenue",
+        "try": "Essayez de changer la langue",
+        "description": "Il s'agit d'une application angulaire prenant en charge plusieurs langues",
+        "sub-description": "En utilisant ngx-translate"
+      },
+      "header": {
+        "headerText": "Prise en charge multilingue dans Angular"
+      }
+}

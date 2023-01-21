@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+select{
+    margin-top: 10px;
+    height: 35px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+.img-logo{
+    margin-bottom: 20px;
+}
+
+p{
+    margin: 3px;
+    color: #333333;
+}
+
+.description{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.title{
+    font-weight: 900;
+    font-size: 40px;
+    color: #333333;
+}
+
+.try-text{
+    font-weight: bold;
+    font-size: 22px;
+}

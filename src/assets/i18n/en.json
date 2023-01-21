@@ -1,0 +1,11 @@
+{
+    "dashboard": {
+        "welcome": "Welcome",
+        "try": "Try changing the language",
+        "description": "This is an Angular application supporting multiple language",
+        "sub-description": "Using ngx-translate"
+      },
+      "header": {
+        "headerText": "Multi Language Support in Angular"
+      }
+}
